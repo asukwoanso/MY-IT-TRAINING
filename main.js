@@ -1,4 +1,4 @@
-Javascript_repo
+
 //data type
 //number
 console.log(10 * 5);
