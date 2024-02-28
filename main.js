@@ -1,4 +1,3 @@
-Javascript_repo
 //data type
 //number
 console.log(10 * 5);
@@ -31,3 +30,6 @@ var isZero = 0;
 var nonAssignedVariable;
 console.log(typeof nonAssignedVariable);
 console.log(Boolean(nonAssignedVariable));
+
+//Object
+//collection of name-valve pairs
